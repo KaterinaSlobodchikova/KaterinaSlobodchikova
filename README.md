@@ -1,6 +1,6 @@
 ### Hi there, I'm Kate 👋
 
-🌱 I’m currently learning JavaScript and React. 
+🌱 I’m focused on learning JavaScript and React. 
 
 <!--
 **KaterinaSlobodchikova/KaterinaSlobodchikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
